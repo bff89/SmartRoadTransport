@@ -5,3 +5,5 @@ The Smart Road Transport System allows passengers to commute between destination
 The goald for the Smart Road Transport System is to offer more efficient and safe transportation options for dense populations. 
 ![OEBD  Operational Entities](https://github.com/bff89/SmartRoadTransport/assets/161901289/90974008-6160-46c0-bed1-237a6dcafb24)
 ![OCB  Operational Capabilities](https://github.com/bff89/SmartRoadTransport/assets/161901289/d4538fcb-c4b5-42dc-93f2-10c869d0f5f7)
+
+![OES  Support Emergency Resonse](https://github.com/bff89/SmartRoadTransport/assets/161901289/bf6dc3c4-3286-4dbe-840a-5d744db8dd51)
